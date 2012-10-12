@@ -7,9 +7,10 @@ Keynote --- the presentation software from Apple --- makes a surprisingly good r
 
 The short reasoning is this: traditionally tools limited practitioners to producing one of the following: High fidelity mockups that required a lot of work, or low fidelity wireframes and sketches that could be rapidly created.
 
-The short reason for this repo is that Keynote allows for both, but in order to be most effective, it helps to have tools available. I _highly recommend_ that you go read and watch the material on http://keynotekungfu.com.
+The short reason for this repo is that Keynote allows for both, but in order to be most effective, it helps to have tools available. I **highly recommend** that you go read and watch the material on http://keynotekungfu.com.
 
-==How to use this==
+How to use this
+---------------
 1. download (or clone, or whatever) and open in Keynote
 2. View the master slides (View->Show Master Slides)
 3. Copy elements from this presentation to your new presentation/mockup.
