@@ -61,8 +61,8 @@ A list of what's included. I've tried to note whether the element is a screen ca
 	</tr>
 	<tr>
 		<td>Tags</td>
-		<td>Expand/collapse arrow hidden</td>
-		<td>Screen capture</td>
+		<td></td>
+		<td>Natively Drawn</td>
 	</tr>
 	<tr>
 		<td>Categories</td>
@@ -98,6 +98,16 @@ A list of what's included. I've tried to note whether the element is a screen ca
 		<td>Color Selector</td>
 		<td>WP 3.5 color picker, closed.</td>
 		<td>Screen Capture</td>
+	</tr>
+	<tr>
+		<td>Check Boxes</td>
+		<td>Checked and Unchecked with labels</td>
+		<td>Natively Drawn</td>
+	</tr>
+	<tr>
+		<td>Radio Buttons</td>
+		<td>With labels</td>
+		<td>Natively Drawn</td>
 	</tr>
         <tr>
                 <td>List Table</td>
