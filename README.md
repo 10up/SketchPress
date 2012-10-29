@@ -66,8 +66,8 @@ A list of what's included. I've tried to note whether the element is a screen ca
 	</tr>
 	<tr>
 		<td>Categories</td>
-		<td>Only "Uncategorized" displayed on the "All Categories" tab. Expand/collapse arrow shown</td>
-		<td>Screen capture</td>
+		<td></td>
+		<td>Natively Drawn</td>
 	</tr>
 	<tr>
 		<td>Custom Meta Box</td>
