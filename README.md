@@ -41,9 +41,9 @@ A list of what's included. I've tried to note whether the element is a screen ca
 		<td>Screen capture</td>
 	</tr>
         <tr>
-                <td>Submenu</td>
-                <td>Includes a somewhat generic star icon. Menu is presented expanded. It can be used to show the submenu for any menu item. Use a second copy of the admin menu to make it appear expanded.</td>
-                <td>Natively Drawn</td>
+        <td>Submenu</td>
+        <td>Includes a somewhat generic star icon. Menu is presented expanded. It can be used to show the submenu for any menu item. Use a second copy of the admin menu to make it appear expanded.</td>
+        <td>Natively Drawn</td>
         </tr>
 	<tr>
 		<td>Admin screen</td>
@@ -66,6 +66,11 @@ A list of what's included. I've tried to note whether the element is a screen ca
 	</tr>
 	<tr>
 		<td>Categories</td>
+		<td></td>
+		<td>Natively Drawn</td>
+	</tr>
+	<tr>
+		<td>Featured Image</td>
 		<td></td>
 		<td>Natively Drawn</td>
 	</tr>
