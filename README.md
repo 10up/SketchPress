@@ -153,11 +153,15 @@ A list of what's included. I've tried to note whether the element is a screen ca
 		<th>Type</th>
 	</tr>
 	</thead>
-
 	<tr>
 		<td>User Flow Modeling</td>
 		<td>Based on the visual vocabulary by Jesse Garrett. http://jjg.net/ia/visvocab/ - Shapes are also useful for more generic flow charts</td>
 		<td>Natively Drawn</td>
+	</tr>
+	<tr>
+		<td>Annotations</td>
+		<td>A few boxes to act as virtual sticky note callouts. Also includes a "click" and "hover" icon</td>
+		<td>Natively Drawn; cursor is an image from wikimedia commons</td>
 	</tr>
 	</tbody>
 </table>
