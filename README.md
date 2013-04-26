@@ -114,6 +114,11 @@ A list of what's included. I've tried to note whether the element is a screen ca
 		<td>With labels</td>
 		<td>Natively Drawn</td>
 	</tr>
+	<tr>
+	<td>Select Menu</td>
+	<td>Mac OS. Open and closed versions</td>
+	<td>Natively Drawn</td>
+	</tr>
         <tr>
                 <td>List Table</td>
                 <td>Generic list table, no checkbox column, no sorting or bulk editing. Tables are kind of finicky in Keynote. It is possible to add columns and rows, but watch how it sizes.</td>
