@@ -102,7 +102,7 @@ A list of what's included. I've tried to note whether the element is a screen ca
 	<tr>
 		<td>Color Selector</td>
 		<td>WP 3.5 color picker, closed.</td>
-		<td>Screen Capture</td>
+		<td>Natively Drawn</td>
 	</tr>
 	<tr>
 		<td>Check Boxes</td>
