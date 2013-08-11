@@ -41,9 +41,9 @@ A list of what's included. I've tried to note whether the element is a screen ca
 		<td>Screen capture</td>
 	</tr>
         <tr>
-        <td>Submenu</td>
-        <td>Includes a somewhat generic star icon. Menu is presented expanded. It can be used to show the submenu for any menu item. Use a second copy of the admin menu to make it appear expanded.</td>
-        <td>Natively Drawn</td>
+     	   <td>Submenu</td>
+     	   <td>Includes a somewhat generic star icon. Menu is presented expanded. It can be used to show the submenu for any menu item. Use a second copy of the admin menu to make it appear expanded.</td>
+     	   <td>Natively Drawn</td>
         </tr>
 	<tr>
 		<td>Admin screen</td>
@@ -53,7 +53,7 @@ A list of what's included. I've tried to note whether the element is a screen ca
 	<tr>
 		<td>Title and Content editor</td>
 		<td>Shows the "Beta Media" button from 3.5b1. Set on the Visual tab.</td>
-		<td>Screen capture</td>
+		<td>Title is natively drawn, WP Editor is a Screen capture</td>
 	<tr>
 		<td>Publish Box</td>
 		<td>Expand/collapse arrow not shown.</td>
@@ -102,7 +102,7 @@ A list of what's included. I've tried to note whether the element is a screen ca
 	<tr>
 		<td>Color Selector</td>
 		<td>WP 3.5 color picker, closed.</td>
-		<td>Screen Capture</td>
+		<td>Natively Drawn</td>
 	</tr>
 	<tr>
 		<td>Check Boxes</td>
@@ -115,9 +115,9 @@ A list of what's included. I've tried to note whether the element is a screen ca
 		<td>Natively Drawn</td>
 	</tr>
 	<tr>
-	<td>Select Menu</td>
-	<td>Mac OS. Open and closed versions</td>
-	<td>Natively Drawn</td>
+		<td>Select Menu</td>
+		<td>Mac OS. Open and closed versions</td>
+		<td>Natively Drawn</td>
 	</tr>
         <tr>
                 <td>List Table</td>
