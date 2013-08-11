@@ -56,7 +56,7 @@ A list of what's included. I've tried to note whether the element is a screen ca
 		<td>Title is natively drawn, WP Editor is a Screen capture</td>
 	<tr>
 		<td>Publish Box</td>
-		<td>Expand/collapse arrow not shown.</td>
+		<td></td>
 		<td>Natively Drawn</td>
 	</tr>
 	<tr>
