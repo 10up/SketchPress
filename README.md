@@ -16,9 +16,15 @@ The short reason for this repo is that Keynote allows for both, but in order to 
 
 There are a bunch more "pro" tips around how to make this workflow the best. Again, I'd highly suggest watching the material on keynotekungfu.
 
+### A Note on Keynote Versions ###
+I've transitioned the mockup library to Keynote Version 6. It will no longer work with iWork/Keynote '09
+
+
 ## Included Elements ##
 
 A list of what's included. I've tried to note whether the element is a screen capture or if it's natively drawn in Keynote. The latter is preferable both for file size and flexibility, but in the need to quickly assemble elements screen captures saved a lot of time. The idea is that everything will be natively drawn eventually.
+
+The newest visual refresh of WordPress is right around the corner: The plugin known as MP6 is scheduled to be rolled into WordPress core for version 3.8 in December, 2013. Until that happens, the following table may be out of date, as I have not included all of the MP6/3.8 elements. I'll update it after MP6/3.8 is released at which time I will remove all of the old styles.
 
 ### WordPress Admin Elements ###
 <table>
@@ -173,7 +179,7 @@ A list of what's included. I've tried to note whether the element is a screen ca
 
 ## WP Version ##
 
-Last note, I started this project using WordPress 3.4 as a reference, and then migrated to 3.5 beta. There are some inconsistencies, but the idea is to use the trunk version of WordPress as a reference for new UI elements whenever possible and prudent.
+Last note, I started this project using WordPress 3.4 as a reference, and then migrated to 3.5 beta. There are some inconsistencies, but the idea is to use the trunk version of WordPress as a reference for new UI elements whenever possible and prudent. See the note above about WP 3.8 and MP6 styles.
 
 ## Contributing ##
 
