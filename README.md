@@ -59,7 +59,7 @@ WordPress Admin Screens
  <li>Appearance: Customizer</li>
  <li>Users</li>
   <ul>
-      <li>Users: Add Wew</li>
+      <li>Users: Add New</li>
      </ul>
   <li>Settings (generic screen)</li>
   <li>Page Shells</li>
