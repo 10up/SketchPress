@@ -11,14 +11,14 @@ If you haven’t worked with Sketch app before, we highly recommend going to the
 ## How to use this ##
 
 1. Download (or clone, or whatever) and open in Sketch
-2. The first page is an introduction to the document and includes information about what you can expect to find - we suggest reading through that to understand and learn more 
-3. Copy any of the artboards into a new page or work directly from them for your own mockups 
+2. The first page is an introduction to the document and includes information about what you can expect to find - we suggest reading through that to understand and learn more
+3. Copy any of the artboards into a new page or work directly from them for your own mockups
 
 Protip: clone or download the repo into your Sketch templates folder and create “new from template”
 
 ## Included Elements ##
 
-A list of what's included. Keep in mind this is a living breathing document so we are constantly updating this list. When reproducible, we have created a symbol to help the process. 
+A list of what's included. Keep in mind this is a living breathing document so we are constantly updating this list. When reproducible, we have created a symbol to help the process.
 
 WordPress Admin Screens
 
@@ -71,7 +71,7 @@ This project using WordPress 4.7 as a reference. Depending on installed plugins,
 
 ## Sketch Version ##
 
-This was built with Sketch version 42. Version 43 introduces a new file format. Once proven stable (particularly with symbols), we’ll update this repo.
+This was built with Sketch version 43.2.
 
 ## Contributing ##
 
