@@ -67,7 +67,7 @@ WordPress Admin Screens
 
  ## Tips ##
 
-<b>SYMBOLS<b>
+<b>SYMBOLS</b>
  WP Admin Sketch Templates have a plethora of usable symbols, ready to insert and replicate in your designs. If you aren’t familiar with symbols, we recommend practicing by creating a blank artboard (command+a shortcut) and then going to: Insert > Symbols > (choose symbols from the menu). After a symbol is inserted into an artboard, select it to view additional functionality. Options will be displayed in the inspector window (the menu on the right side of Sketch’s window, if this isn’t showing up go to View > Show Inspector).
 
  How to use a tintable symbol.
