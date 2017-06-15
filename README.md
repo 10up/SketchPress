@@ -67,8 +67,9 @@ WordPress Admin Screens
 
  ## Tips ##
 
-<b>SYMBOLS</b>
- WP Admin Sketch Templates have a plethora of usable symbols, ready to insert and replicate in your designs. If you aren’t familiar with symbols, we recommend practicing by creating a blank artboard (command+a shortcut) and then going to: Insert > Symbols > (choose symbols from the menu). After a symbol is inserted into an artboard, select it to view additional functionality. Options will be displayed in the inspector window (the menu on the right side of Sketch’s window, if this isn’t showing up go to View > Show Inspector).
+SYMBOLS
+
+WP Admin Sketch Templates have a plethora of usable symbols, ready to insert and replicate in your designs. If you aren’t familiar with symbols, we recommend practicing by creating a blank artboard (command+a shortcut) and then going to: Insert > Symbols > (choose symbols from the menu). After a symbol is inserted into an artboard, select it to view additional functionality. Options will be displayed in the inspector window (the menu on the right side of Sketch’s window, if this isn’t showing up go to View > Show Inspector).
 
  How to use a tintable symbol.
  To insert an icon select from the following menu: Insert > Symbols > Dashicon > (select any you wish to insert - this shows the dashboard icon). Now select the symbol by clicking on it. Your inspector window on the right side of Sketch’s window pane now shows you a few new options. You will see the icon first and a dropdown menu allowing you to change it to a different symbol (handy!). Underneath that is the Overrides window. In there is “tint.” Select the dropdown menu and voila - you will see a full set of tints you can change your icon to now be.
