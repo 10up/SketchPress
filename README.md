@@ -67,18 +67,18 @@ WordPress Admin Screens
 
  ## Tips ##
 
-<b>SYMBOLS<b>
+<b>SYMBOLS</b>
  WP Admin Sketch Templates have a plethora of usable symbols, ready to insert and replicate in your designs. If you aren’t familiar with symbols, we recommend practicing by creating a blank artboard (command+a shortcut) and then going to: Insert > Symbols > (choose symbols from the menu). After a symbol is inserted into an artboard, select it to view additional functionality. Options will be displayed in the inspector window (the menu on the right side of Sketch’s window, if this isn’t showing up go to View > Show Inspector).
 
  How to use a tintable symbol.
  To insert an icon select from the following menu: Insert > Symbols > Dashicon > (select any you wish to insert - this shows the dashboard icon). Now select the symbol by clicking on it. Your inspector window on the right side of Sketch’s window pane now shows you a few new options. You will see the icon first and a dropdown menu allowing you to change it to a different symbol (handy!). Underneath that is the Overrides window. In there is “tint.” Select the dropdown menu and voila - you will see a full set of tints you can change your icon to now be.
 
- https://github.com/10up/mock-up-press/blob/master/how-to-use-tintable-symbols.gif
+![Alt Text](https://github.com/10up/mock-up-press/blob/master/how-to-use-tintable-symbols.gif)
 
  How to create a new tintable symbol.
  If you want to create a new tintable symbol simply select the symbol and click on the Create Symbol button at the top of the Sketch page (or right click to create). Name the symbol in the dialog box and click the ok button to continue. Now the symbol will be included on your symbols page. To make it tintable. In the symbols page there is an artboard called dashicons/tints/blank - select the tint (click on the grey square), copy it, and past it into the artboard with your new symbol. Resize it to cover the surface area of your icon. Next select both the tints and the icon and then right click to select mask from menu options. Alternatively, you can do this by selecting the layer menu and then mask with selected shape. Now your symbol will have the available tints to change its color with.  
 
- https://github.com/10up/mock-up-press/blob/master/how-to-create-tintable-symbols.gif
+ ![Alt Text](https://github.com/10up/mock-up-press/blob/master/how-to-create-tintable-symbols.gif)
 
 ## WP Version ##
 
