@@ -18,68 +18,54 @@ Protip: clone or download the repo into your Sketch templates folder and create 
 
 ## Included Elements ##
 
-A list of what's included. Keep in mind this is a living breathing document so we are constantly updating this list. When reproducible, we have created a symbol to help the process.
+There are 32+ wireframes in the SketchPress document. See below for the highlights. When reproducible, we have created a symbol to help you be more efficient.
 
 WordPress Admin Screens
 
-<ul>
-  <li>Dashboard</li>
-  <li>Posts
-    <ul>
-      <li>Posts: Quick Edit</li>
-      <li>Posts: Add New</li>
-      <li>Posts: Add Media</li>
-      <li>Posts: Tags and Categories</li>
-    </ul>
-  </li>
-  <li>Media</li>
-      <ul>
-      <li>Add Media (grid view)</li>
-      <li>Add Media: Drop Files (grid view)</li>
-      <li>Media: List View</li>
-      <li>Add Media (list view)</li>
-      <li>Add Media: Drop Files (list view)</li>
-      <li>Add Media: List View Uploading Percentage</li>
-      <li>Add Media: List View (confirm)</li>
-      <li>Add Media: Browser Uploader (list view)</li>
-      <li>Add Media: Browser Uploader Confirm (list view)</li>
-      <li>Insert Media</li>
-      <li> Edit Media</li>
-      <li>Edit Media: Grid Layout View</li>
-      <li>Edit Media: Modal From Post/Page</li>
-      <li>Edit Media: Detailed Modal</li>
-     </ul>
-  <li>Pages</li>
-  <li>Comments</li>
-      <ul>
-      <li>Comments: Hover State Choices</li>
-      <li>Comments: Quick Edit</li>
-      <li>Comments: Edit</li>
-     </ul>
- <li>Appearance: Customizer</li>
- <li>Users</li>
-  <ul>
-      <li>Users: Add New</li>
-     </ul>
-  <li>Settings (generic screen)</li>
-  <li>Page Shells</li>
- </ul>
+![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To_gifs/sketch-press-wireframe-screens.gif)
+
+| Pages & Posts     | Media            | Misc             |
+| :---:  | :---: | :---: |
+| Quick Edit        | Add Media        | Dashboard        |
+| Add New           | Edit Media       | Comments         |
+| Add Media         | List & Grid View | Customizer       |
+| Tags & Categories | Browser Uploader | Users            |
+| Edit Page/Post    | Detailed Modal   | Settings         |
 
  ## Tips ##
 
-# SYMBOLS #
+**SYMBOLS**
+ WP Admin Sketch Templates have a plethora of usable symbols, ready to insert and replicate in your designs. If you aren’t familiar with symbols, we recommend practicing by creating a blank artboard (command+a shortcut) and then going to: Insert > Symbols > (choose symbols from the menu). After a symbol is inserted into an artboard, select it to view additional functionality. Options will be displayed in the inspector window (the menu on the right side of Sketch’s window, if this isn’t showing up go to View > Show Inspector).
 
-WP Admin Sketch Templates have a plethora of usable symbols, ready to insert and replicate in your designs. If you aren’t familiar with symbols, we recommend practicing by creating a blank artboard (command+a shortcut) and then going to: Insert > Symbols > (choose symbols from the menu). After a symbol is inserted into an artboard, select it to view additional functionality. Options will be displayed in the inspector window (the menu on the right side of Sketch’s window, if this isn’t showing up go to View > Show Inspector).
+ **Buttons**
+ There are several buttons available in SketchPress that mimic the WordPress admin interface. To insert them, go to Insert > Symbols > Core > Input > Buttons. Each button has editable text. To change the text, click to select the button. The inspector panel will give you the option to change the text there.
 
- How to use a tintable symbol.
+ **Tables**
+Since buttons have fairly little fields to change in the inspector panel, they are considered a basic symbol style in SketchPress. Tables have more complex options and allow for even greater efficiency for your WP-Admin interfaces. Here's how you add and edit a table:
+1. Insert table into your artboard (example: Insert > Symbols > Core > Components > List-table-rows > All-posts—alternate)
+2. After inserting your table row, click to select that table. The inspector panel now shows text input fields for all of the table columns.
+3. Type in the new content for your table rowThe table will now be updated to show your new content.
+
+![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To_gifs/how-to-use-table.gif) 
+
+ **Tinted Symbols**
  To insert an icon select from the following menu: Insert > Symbols > Dashicon > (select any you wish to insert - this shows the dashboard icon). Now select the symbol by clicking on it. Your inspector window on the right side of Sketch’s window pane now shows you a few new options. You will see the icon first and a dropdown menu allowing you to change it to a different symbol (handy!). Underneath that is the Overrides window. In there is “tint.” Select the dropdown menu and voila - you will see a full set of tints you can change your icon to now be.
 
-![Alt Text](https://github.com/10up/mock-up-press/blob/master/how-to-use-tintable-symbols.gif)
+![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To_gifs/how-to-use-tintable-symbols.gif)
 
- How to create a new tintable symbol.
+ **Creating Tinted Symbols**
  If you want to create a new tintable symbol simply select the symbol and click on the Create Symbol button at the top of the Sketch page (or right click to create). Name the symbol in the dialog box and click the ok button to continue. Now the symbol will be included on your symbols page. To make it tintable. In the symbols page there is an artboard called dashicons/tints/blank - select the tint (click on the grey square), copy it, and past it into the artboard with your new symbol. Resize it to cover the surface area of your icon. Next select both the tints and the icon and then right click to select mask from menu options. Alternatively, you can do this by selecting the layer menu and then mask with selected shape. Now your symbol will have the available tints to change its color with.  
 
- ![Alt Text](https://github.com/10up/mock-up-press/blob/master/how-to-create-tintable-symbols.gif)
+ ![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To_gifs/how-to-create-tintable-symbols.gif)
+
+**IMAGES**
+There are three image styles included in the symbols. These are for the media grid view, media layout view, and a user thumbnail. After inserting an image into your artboard you can change it by selecting “choose image” from the inspector panel.
+1. Insert image into your artboard
+2. In the inspector panel, click on the “choose image” button
+3. A pop up dialog box will open, allowing you to choose what image to replace this one with. Select an image (from your computer) and click “open” in your dialog box.
+The new image, already cropped to size, is now on your artboard!
+
+![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To_gifs/how-to-use-image-symbols.gif)
 
 ## WP Version ##
 
