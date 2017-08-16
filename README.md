@@ -81,7 +81,7 @@ This project using WordPress 4.7 as a reference. Depending on installed plugins,
 
 ## Sketch Version ##
 
-This was built with Sketch version 44.1.
+This was built with Sketch version 46.2.
 
 ## Contributing ##
 
