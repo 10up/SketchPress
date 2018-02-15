@@ -8,6 +8,12 @@ The Sketch App, a digital design tool for Mac users, is increasingly popular amo
 
 If you haven’t worked with Sketch app before, we highly recommend going to their learning resources center to watch and read materials about it: https://www.sketchapp.com/learn/
 
+# UPDATE #
+Now included with this repo is a beta version of Sketch templates for Gutenberg. Use this file to show your clients what Gutenberg's admin interface can do for the authoring experience. This beta version will be updated as more Gutenberg changes. Please leave comments or requests for features and we will try to accomodate them.
+
+Gutenberg's wireframe templates use Roboto, you can download the font here:
+https://fonts.google.com/specimen/Roboto
+
 ## How to use this ##
 
 1. Download (or clone, or whatever) and open in Sketch
