@@ -51,6 +51,7 @@ WordPress Admin Screens
  ![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To-Gifs/how-to-add-buttons.gif)
 
  **List Tables**
+ 
 Compared to buttons, the options available for list tables are more complex and powerful. List tables are built quickly using a symbol for each row and using symbol overrides to edit column information.
 
 1. Insert a table row into your artboard (example: Insert > Symbols > Core > Components > List-table-rows > All-posts—alternate)
