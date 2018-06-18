@@ -52,7 +52,7 @@ WordPress Admin Screens
 
  **List Tables**
  
-Compared to buttons, the options available for list tables are more complex and powerful. List tables are built quickly using a symbol for each row and using symbol overrides to edit column information.
+Compared to buttons, the options available for list tables—such as those used for listing all posts—are more complex and powerful. List tables are built quickly using a symbol for each row and using symbol overrides to edit column information.
 
 1. Insert a table row into your artboard (example: Insert > Symbols > Core > Components > List-table-rows > All-posts—alternate)
 2. Click to select the newly inserted table row. The inspector panel now shows text input fields for all of the table columns.
