@@ -50,18 +50,20 @@ WordPress Admin Screens
 
  ![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To-Gifs/how-to-add-buttons.gif)
 
- **Tables**
+ **List Tables**
+ 
+Compared to buttons, the options available for list tables—such as those used for listing all posts—are more complex and powerful. List tables are built quickly using a symbol for each row and using symbol overrides to edit column information.
 
-Since buttons have fairly little fields to change in the inspector panel, they are considered a basic symbol style in SketchPress. Tables have more complex options and allow for even greater efficiency for your WP-Admin interfaces. Here's how you add and edit a table:
-1. Insert table into your artboard (example: Insert > Symbols > Core > Components > List-table-rows > All-posts—alternate)
-2. After inserting your table row, click to select that table. The inspector panel now shows text input fields for all of the table columns.
-3. Type in the new content for your table rowThe table will now be updated to show your new content.
+1. Insert a table row into your artboard (example: Insert > Symbols > Core > Components > List-table-rows > All-posts—alternate)
+2. Click to select the newly inserted table row. The inspector panel now shows text input fields for all of the table columns.
+3. Type in the new content for your table row.
+4. Repeat these steps for each row of your list table.
 
 ![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To-Gifs/how-to-use-table.gif)
 
  **Tinted Symbols**
 
- To insert an icon select from the following menu: Insert > Symbols > Dashicon > (select any you wish to insert - this shows the dashboard icon). Now select the symbol by clicking on it. Your inspector window on the right side of Sketch’s window pane now shows you a few new options. You will see the icon first and a dropdown menu allowing you to change it to a different symbol (handy!). Underneath that is the Overrides window. In there is “tint.” Select the dropdown menu and voila - you will see a full set of tints you can change your icon to now be.
+To insert an icon select from the following menu: Insert > Symbols > Dashicon > (select any you wish to insert - this shows the dashboard icon). Now select the symbol by clicking on it. Your inspector window on the right side of Sketch’s window pane now shows you a few new options. You will see the icon first and a dropdown menu allowing you to change it to a different symbol (handy!). Underneath that is the Overrides window. In there is “tint.” Select the dropdown menu and voila - you will see a full set of tints you can change your icon to now be.
 
 ![Alt Text](https://github.com/10up/SketchPress/blob/master/How-To-Gifs/how-to-use-tintable-symbols.gif)
 
