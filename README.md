@@ -9,7 +9,7 @@ The Sketch App, a digital design tool for Mac users, is increasingly popular amo
 Four main files exist in this repo:
 
 1. SketchPress: This is a large file with all the symbols, screens and components.
-2. SketchPress WP-Admin Library: If you want a library of reproducible symbols then this is the file for you. We happily take contributions for any updates.
+2. <a href="{{https://github.com/10up/SketchPress/blob/master/SketchPress_WP-Admin_Library.sketch}}">{{SketchPress WP-Admin Library}}</a>: If you want a library of reproducible symbols then this is the file for you. We happily take contributions for any updates.
 3. Sketch WPAdmin Components: A compact file of just the basics for you to work with. If you don't like symbols or simply want to grab components, this is the file for you.
 4. Gutenberg Beta: Screens for the Gutenberg admin interface; updated as new releases are posted.  
 
