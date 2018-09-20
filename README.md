@@ -4,7 +4,14 @@ Sketch template for quickly creating awesome WordPress admin interface mockups a
 
 The Sketch App, a digital design tool for Mac users, is increasingly popular among designers and developers in the digital world. Its a powerful tool that allows you to rapidly create mockups that can be high or low fidelity. What makes it even more useful is in its reproducible libraries and symbols.
 
-10up has created a library of WordPress admin mockups which cover the breadth of WordPress’ authoring and administrative environment (wp-admin). Being able to start from this solid foundation allows us to focus more on the concepts and less on pushing the pixels to make it look like an authentic backend experience.  
+10up has created a set of WordPress admin mockups which cover the breadth of WordPress’ authoring and administrative environment (wp-admin). Being able to start from this solid foundation allows us to focus more on the concepts and less on pushing the pixels to make it look like an authentic backend experience.  
+
+Four main files exist in this repo:
+
+1. SketchPress: This is a large file with all the symbols, screens and components.
+2. SketchPress WP-Admin Library: If you want a library of reproducible symbols then this is the file for you. We happily take contributions for any updates.
+3. Sketch WPAdmin Components: A compact file of just the basics for you to work with. If you don't like symbols or simply want to grab components, this is the file for you.
+4. Gutenberg Beta: Screens for the Gutenberg admin interface; updated as new releases are posted.  
 
 If you haven’t worked with Sketch app before, we highly recommend going to their learning resources center to watch and read materials about it: https://www.sketchapp.com/learn/
 
