@@ -92,11 +92,11 @@ The new image, already cropped to size, is now on your artboard!
 
 ## WP Version ##
 
-This project using WordPress 4.9.6 as a reference. Depending on installed plugins, themes, and user configuration your environment may be different.
+This project using WordPress 4.9.8 as a reference. Depending on installed plugins, themes, and user configuration your environment may be different.
 
 ## Sketch Version ##
 
-This was built with Sketch version 50.2.
+This was built with Sketch version 51.3.
 
 ## Contributing ##
 
