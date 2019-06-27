@@ -2,7 +2,8 @@
 
 > Sketch template for quickly creating awesome WordPress admin interface mockups and designs. This version is fully updated for WordPress 5.0, with the Gutenberg editing experience. Classic editor files will still be available in this repo.
 
-[![Support Level](https://img.shields.io/badge/support-active-green.svg)](#support-level)
+[![Support Level](https://img.shields.io/badge/support-active-green.svg)](#support-level) [![MIT License](https://img.shields.io/github/license/10up/SketchPress.svg)](https://github.com/10up/SketchPress/blob/develop/LICENSE.md)
+
 
 ## Overview
 
